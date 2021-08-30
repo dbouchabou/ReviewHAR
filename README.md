@@ -1,2 +1,3 @@
 # ReviewHAR
-Reprodution of HAR litterature works
+Reprodution of HAR litterature works.
+(Available soon)
